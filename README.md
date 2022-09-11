@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 📫 Em busca da primeira oportunidade
-- 💬 Realizando varios cursos na área
+- 📫 Em busca da primeira oportunidade na área!
+- 💬 Realizando vários cursos para adquirir mais conhecimento!
 
 <div align="center">
   <a href="https://github.com/AndersonCoitinho">
