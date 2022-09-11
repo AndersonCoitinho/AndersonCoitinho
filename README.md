@@ -1,8 +1,7 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 Formado Em Analise e Desenvolvimento de sistemas
-- 💬 Realizando varios cursos na área
 - 📫 Em busca da primeira oportunidade
+- 💬 Realizando varios cursos na área
 
 <div align="center">
   <a href="https://github.com/AndersonCoitinho">
