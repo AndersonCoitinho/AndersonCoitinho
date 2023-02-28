@@ -1,7 +1,7 @@
-### Olá 👋
+### Olá, me chamo Anderson e tenho 22 anos 👋
 
 - 📫 Em busca da primeira oportunidade na área!
-- 💬 Realizando vários cursos para adquirir mais conhecimento!
+- 💬 Estudando na Rocketseat!
 
 <div align="center">
   <a href="https://github.com/AndersonCoitinho">
