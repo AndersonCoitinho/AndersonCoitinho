@@ -1,8 +1,3 @@
-### Olá, me chamo Anderson e tenho 22 anos 👋
-
-- 📫 Em busca da primeira oportunidade na área!
-- 💬 Estudando na Rocketseat!
-
 <div>
   <a href="https://github.com/AndersonCoitinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCoitinho&layout=compact&langs_count=7&theme=dark"/>
